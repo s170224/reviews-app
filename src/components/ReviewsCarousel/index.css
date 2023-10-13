@@ -1,0 +1,27 @@
+.bg-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/reviews-bg.png');
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  color: #ffffff;
+  font-family: 'Roboto';
+  height: 100vh;
+  padding: 10px;
+  margin: 10px;
+}
+.button {
+  outline: none;
+  border: none;
+  background: transparent;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.details-container {
+  text-align: center;
+}
